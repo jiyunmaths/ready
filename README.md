@@ -26,7 +26,7 @@ Full build instructions in [BUILD.txt](https://github.com/GollyGang/ready/blob/g
 [Changes](https://GollyGang.github.io/ready/Help/changes.html), [To-do list](https://GollyGang.github.io/ready/TODO.txt), [Credits](https://GollyGang.github.io/ready/Help/credits.html)
 
 Build status on the main branch: &nbsp;&nbsp;&nbsp;
-[![Windows](https://github.com/GollyGang/ready/workflows/Windows/badge.svg?branch=gh-pages)](https://github.com/GollyGang/ready/actions?query=workflow%3AWindows+branch%3Agh-pages) &nbsp; [![macOS](https://github.com/GollyGang/ready/workflows/macOS/badge.svg?branch=gh-pages)](https://github.com/GollyGang/ready/actions?query=workflow%3AmacOS+branch%3Agh-pages) &nbsp; [![Ubuntu](https://github.com/GollyGang/ready/workflows/Ubuntu/badge.svg?branch=gh-pages)](https://github.com/GollyGang/ready/actions?query=workflow%3AUbuntu+branch%3Agh-pages)
+[![Windows](https://github.com/GollyGang/ready/actions/workflows/build_windows.yml/badge.svg)](https://github.com/GollyGang/ready/actions/workflows/build_windows.yml) &nbsp; [![macOS](https://github.com/GollyGang/ready/actions/workflows/build_macos.yml/badge.svg)](https://github.com/GollyGang/ready/actions/workflows/build_macos.yml) &nbsp; [![Ubuntu](https://github.com/GollyGang/ready/actions/workflows/build_ubuntu.yml/badge.svg)](https://github.com/GollyGang/ready/actions/workflows/build_ubuntu.yml)
 
 For questions, [join our mailing list](https://groups.google.com/forum/#!forum/reaction-diffusion). Or you can email [tim.hutton@gmail.com](mailto:tim.hutton@gmail.com).
 
